@@ -8,18 +8,23 @@ This app is integrated with flask server hosted on AWS. The code for which can b
 https://github.com/anupam1897/fuel_server
 
 ## Screenshots
-<img src="screenshots/home_page.jpg" alt="Screenshot 1" width="400">
-<p align="center"><em>HomePage</em></p>
-<img src="screenshots/hub_for-you.jpg" alt="Screenshot 2" width="400">
-<p align="center"><em>HubPage_For You</em></p>
-<img src="screenshots/hub_seeded.jpg" alt="Screenshot 3" width="400">
-<p align="center"><em>HubPage_seeded</em></p>
+<p align="center">
+  <img src="screenshots/home_page.jpg" alt="Screenshot 1" width="400">
+  <img src="screenshots/hub_for-you.jpg" alt="Screenshot 2" width="400">
+  <img src="screenshots/hub_seeded.jpg" alt="Screenshot 3" width="400">
+</p>
+
+<p align="center">
+  <em>HomePage</em>
+  <em>HubPage_For You</em>
+  <em>HubPage_seeded</em>
+</p>
 
 # Upcoming Features
 - Accounts and Settings
 - Chats
 - Portfolio management Pages
-- Firebase, OAuth implementation
+- Firebase  & OAuth implementation
    
 ## For Recruiters
 Thank you for considering Fuel for review! I believe that Fuel showcases my commitment to creating user-friendly and feature-rich Flutter applications. If you have any questions or need further information, please feel free to reach out to me. I'm  excited about the opportunity to discuss coding practices, design decisions, and the overall development process behind Fuel.
