@@ -9,16 +9,11 @@ https://github.com/anupam1897/fuel_server
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/home_page.jpg" alt="Screenshot 1" width="400">
-  <img src="screenshots/hub_for-you.jpg" alt="Screenshot 2" width="400">
-  <img src="screenshots/hub_seeded.jpg" alt="Screenshot 3" width="400">
+  <img src="screenshots/home_page.jpg" alt="Screenshot 1" width="300">
+  <img src="screenshots/hub_for-you.jpg" alt="Screenshot 2" width="300">
+  <img src="screenshots/hub_seeded.jpg" alt="Screenshot 3" width="300">
 </p>
 
-<p align="center">
-  <em>HomePage</em>
-  <em>HubPage_For You</em>
-  <em>HubPage_seeded</em>
-</p>
 
 # Upcoming Features
 - Accounts and Settings
