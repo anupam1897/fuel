@@ -20,6 +20,21 @@ https://github.com/anupam1897/fuel_server
 - Chats
 - Portfolio management Pages
 - Firebase  & OAuth implementation
+
+## Acknowledgments
+
+I would like to express my gratitude to the following open-source projects and their contributors, whose work has significantly contributed to the development of my Flutter application:
+
+- [flutter_svg](https://pub.dev/packages/flutter_svg) v2.0.9
+- [intl](https://pub.dev/packages/intl) v0.19.0
+- [video_player](https://pub.dev/packages/video_player) v2.8.2
+- [provider](https://pub.dev/packages/provider) v6.1.1
+- [google_fonts](https://pub.dev/packages/google_fonts) v4.0.4
+- [connectivity](https://pub.dev/packages/connectivity) v3.0.6
+- [lottie](https://pub.dev/packages/lottie) v1.0.1
+
+I extend my heartfelt thanks to all the open-source contributors who dedicate their time and effort to building these fantastic packages, making the Flutter development community thrive.
+
    
 ## For Recruiters
 Thank you for considering Fuel for review! I believe that Fuel showcases my commitment to creating user-friendly and feature-rich Flutter applications. If you have any questions or need further information, please feel free to reach out to me. I'm  excited about the opportunity to discuss coding practices, design decisions, and the overall development process behind Fuel.
