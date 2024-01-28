@@ -15,9 +15,11 @@ https://github.com/anupam1897/fuel_server
 <img src="screenshots/hub_seeded.jpg" alt="Screenshot 3" width="400">
 <p align="center"><em>HubPage_seeded</em></p>
 
-
+# Upcoming Features
+- Accounts and Settings, Chats and Portfolio management Pages
+- Firebase, OAuth implementation
+   
 ## For Recruiters
-
 Thank you for considering Fuel for review! We believe that Fuel showcases our commitment to creating user-friendly and feature-rich Flutter applications. If you have any questions or need further information, please feel free to reach out to us. We are excited about the opportunity to discuss our coding practices, design decisions, and the overall development process behind Fuel.
 
 This app is fairly very new and  I'm passionate about continuous improvement, and ready to contribute to making Fuel even better. I believe in collaborating with a dynamic team and leveraging our skills to serve a broader audience and enhance the user experience. I would like to here from you about possibilities of collaboration.
